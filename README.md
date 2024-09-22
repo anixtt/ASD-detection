@@ -5,7 +5,7 @@ Below image is the overview of this project
 ![Overview](https://github.com/user-attachments/assets/efd94c25-b87a-42d5-bf98-3527bb1dc3b3)
 # Data Source
 All data are from [ABIDE I](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
-# How To RUN
+# How To Run
 * First step: respectively download the pre-processed ASD and TDC ROI time series data follow [preprocessed-connectomes-project
 /
 abide](https://github.com/preprocessed-connectomes-project/abide), the number of subjects is 884.
